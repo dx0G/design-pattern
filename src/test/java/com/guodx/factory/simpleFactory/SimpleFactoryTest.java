@@ -1,5 +1,8 @@
 package com.guodx.factory.simpleFactory;
 
+import com.guodx.factory.common.ICourse;
+import com.guodx.factory.common.JavaCourse;
+
 public class SimpleFactoryTest {
 
     public static void main(String[] args) {

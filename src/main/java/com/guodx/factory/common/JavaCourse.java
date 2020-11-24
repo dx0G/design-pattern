@@ -1,4 +1,4 @@
-package com.guodx.factory.simpleFactory;
+package com.guodx.factory.common;
 
 public class JavaCourse implements ICourse {
     public void record() {

@@ -1,5 +1,7 @@
 package com.guodx.factory.simpleFactory;
 
+import com.guodx.factory.common.ICourse;
+
 public class CourseFactory {
     // 要增加其他课程需要修改逻辑，不符合开闭原则
 //    public ICourse create(String name){
